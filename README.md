@@ -1,8 +1,8 @@
 # 🐢 FouriDown: Factoring Down-Sampling into Shuffling and Superposing (NeurIPS 2023)
 
-<div align="center"><img src='images/Intro.png' width="80%" height="auto"></div>
-
 #### [Paper](https://openreview.net/pdf?id=nCwStXFDQu)
+
+<div align="center"><img src='images/Intro.png' width="80%" height="auto"></div>
 
 ## 💡 Framework
 
