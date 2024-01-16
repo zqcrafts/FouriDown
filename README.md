@@ -21,5 +21,21 @@ Compared to other methods, our FouriDown adaptively adjusts the high and low fre
 
 <img src='images/v2.png'></img>
 
+## 🎫 Contact
+
+If you have any problems with the released code, please do not hesitate to contact me by email (zqcrafts@mail.ustc.edu.cn).
+
+## 🖊️ Citation
+
+If you find this project useful in your research, please consider cite:
+
+```BibTeX
+@inproceedings{zhu2023fouridown,
+  title={FouriDown: Factoring Down-Sampling into Shuffling and Superposing},
+  author={Zhu, Qi and Zhou, Man and Huang, Jie and Zheng, Naishan and Gao, Hongzhi and Li, Chongyi and Xu, Yuan and Zhao, Feng},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023}
+}
+```
 
 
