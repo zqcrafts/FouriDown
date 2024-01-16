@@ -2,6 +2,8 @@
 
 <div align="center"><img src='images/Intro.png' width="80%" height="auto"></div>
 
+#### [Paper](https://openreview.net/pdf?id=nCwStXFDQu)
+
 ## 💡 Framework
 
 FouriDown, as a generic operator, comprises four key components: 2D discrete Fourier transform, context shuffling rules, Fourier weighting-adaptively superposing rules, and 2D inverse Fourier transform. These components can be easily integrated into existing image restoration networks.
