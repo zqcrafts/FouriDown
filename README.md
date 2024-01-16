@@ -3,3 +3,15 @@
 FouriDown, as a generic operator, comprises four key components: 2D discrete Fourier transform, context shuffling rules, Fourier weighting-adaptively superposing rules, and 2D inverse Fourier transform. These components can be easily integrated into existing image restoration networks.
 
 <img src='images/Intro.png'></img>
+
+## Framework
+<img src='images/Framework.jpg'></img>
+
+## Feature Visualization
+<img src='images/v1.png'></img>
+
+## Feature Spectrum Visualization
+<img src='images/v2.png'></img>
+
+
+
